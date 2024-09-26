@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first repository.
 <br>
-author- krishanu lohar
+author- krishanu (apna collage)
